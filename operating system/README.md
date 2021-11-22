@@ -6,4 +6,4 @@
 
 本笔记notion链接：https://wuyuheng.notion.site/Operating-system-0a2e96ac1d8d45af972afa60a7a0ed32
 
-同时提供notion导出的笔记的markdown和pdf版本
+同时提供notion导出的笔记的markdown和pdf版本，建议使用pdf版本
